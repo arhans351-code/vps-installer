@@ -15,11 +15,11 @@ STORAGE_DIR="/var/lib/deupgaming"
 show_branding_banner() {
     echo -e "${CYAN}┌────────────────────────────────────────┐${NC}"
     echo -e "${CYAN}│                                        │${NC}"
-    echo -e "${CYAN}│             ${WHITE}DEUP GAMING${CYAN}                │${NC}"
+    echo -e "${CYAN}│             ${WHITE}DRACULA XD${CYAN}                │${NC}"
     echo -e "${CYAN}│          ${WHITE}ADVANCED HOSTING${CYAN}              │${NC}"
     echo -e "${CYAN}│                                        │${NC}"
     echo -e "${CYAN}└────────────────────────────────────────┘${NC}"
-    echo -e "         ${WHITE}Powered by DeupGaming${NC}\n"
+    echo -e "         ${WHITE}Powered by DRACULAXD ${NC}\n"
 }
 
 init_system_check() {
